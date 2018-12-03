@@ -1,7 +1,6 @@
-# esp_inter
-ESP32 interpreter
+# ESP32 Monitor interpreter
 
-# Simple command line for rthe ESP32 monitor
+## Simple command line for rthe ESP32 monitor
 
 Project is placed in the public domain.
 
